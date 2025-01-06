@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <p>도서정보~~~</p>
+        <p>도서정보~~~~~!!</p>
         <table class="table table-hover">
             <thead>
                 <tr>
